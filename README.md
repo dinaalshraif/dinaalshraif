@@ -1,4 +1,4 @@
-- 👋 Hi, <h1>I’m @dinaalshraif</h1>
+- 👋 Hi, <h1>I’m dina Alsharif</h1>
  MSc Data Science @UofGlasgow alumni | Data Engineer | Data Analyst | Software Engineer | Mentor. 
  
 - 👀 I’m interested in Data Science. 
